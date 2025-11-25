@@ -1,38 +1,37 @@
-- key: Name
-  value: Place Holder
+- key: event
+  value: Spicegiving 2025
 - key: Description
   value:
-    - Hello!
-    - This tiny website
-    - Looks like JSON
+    - Delicious
+    - Tacos
+    - Is that Turkey?
+    - Is my mouth hot or is it just you?
+    - huh?
+    - I'm Still Hungry
+    - Is there tequlia in this?
   typed: true
-- key: CV
-  value: cv.pdf
-  url: /cv.pdf
 - key: Address
   value:
-    - University of Jekyll
-    - Department of Themes
-    - 123 Main St, Anytown, USA
-- key: Contact
+    - JJJ Sendling
+    - Implerstraße 73A
+    - 81371, Munich
+- key: Drinks
   value:
-    - key: Office
-      value: Foobar Hall 1.23
-    - key: Phone
-      value: +1 234 567 890
-    - key: Email
-      value: username@domain.com
-      url: "mailto:username@domain.com"
-- key: Source
-  value: piazzai/hacked-jekyll
-  url: https://github.com/piazzai/hacked-jekyll
-- key: Profiles
+    - "Mexican 'Dirty' Martinis"
+    - "Spicy Frozen Acacado Margaritas"
+    - Eggnogg
+- key: Salsas
+  value: 
+    - Mango Pico
+    - Ancho Chille
+    - 7 Layer Bean
+- key: Mains
+  value: 
+    - Pumpkin Soup with ancho and Apple
+    - Poblano Mushroom Pastor Tacos
+    - Turkey Carnitas Tacos
+- key: Desert
   value:
-    - value: Instagram
-      url: https://www.instagram.com
-    - value: LinkedIn
-      url: https://www.linkedin.com
-    - value: StackOverflow
-      url: https://stackoverflow.com
-    - value: GitHub
-      url: https://github.com
+    - Mexican Hot Chocolate Cookies
+    - Sweet Potato Chocolate Bars
+    - Milkshake
